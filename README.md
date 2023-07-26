@@ -1,2 +1,2 @@
-# Shiny_Window_CSS
-Preludium for super shiny logo.
+# Shiny Window
+Preludium for super shiny logo. For now, just CSS.
