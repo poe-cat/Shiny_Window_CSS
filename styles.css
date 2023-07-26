@@ -17,8 +17,8 @@ body
     position: relative;
     width: 400px;
     height: 400px;
-    background: repeating-conic-gradient(from var(--a), #ff2770 0%,
-    #ff2770 5%, transparent 5%, transparent 40%, #ff2770 50%);
+    background: repeating-conic-gradient(from var(--a), #ed66e6 0%,
+    #ed66e6 5%, transparent 5%, transparent 40%, #ed66e6 50%);
     animation: animate 4s linear infinite;
     border-radius: 20px;
 }
@@ -45,8 +45,8 @@ body
     position: absolute;
     width: 100%;
     height: 100%;
-    background: repeating-conic-gradient(from var(--a), #ed66e6 0%,
-    #ed66e6 5%, transparent 5%, transparent 40%, #ed66e6 50%);
+    background: repeating-conic-gradient(from var(--a), #45f3ff 0%,
+    #45f3ff 5%, transparent 5%, transparent 40%, #45f3ff 50%);
     animation: animate 4s linear infinite;
     animation-delay: -1s;
     border-radius: 20px;
